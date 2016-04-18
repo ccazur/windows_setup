@@ -25,6 +25,8 @@
 ## Apps & Tools
 
 * [Synergy](http://synergy-project.org/nightly)
+* [NodeJS](https://nodejs.org/en/download/)
+
 * [Skype](https://www.skype.com/en/download-skype/)
 * [Slack](https://slack.com/downloads)
 * [Todoist](https://todoist.com/windows)
