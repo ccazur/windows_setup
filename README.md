@@ -29,7 +29,7 @@
 
 * [Skype](https://www.skype.com/en/download-skype/)
 * [Slack](https://slack.com/downloads)
-* [Todoist](https://todoist.com/windows)
+* [Todoist](https://www.microsoft.com/en-us/store/apps/todoist-to-do-list-and-task-manager/9nblggh1rl1k)
 * [Messenger](http://messengerfordesktop.com)
 * [WhatsApp](https://github.com/Aluxian/WhatsApp-Desktop)
 * [Sublime Text](http://www.sublimetext.com/)
