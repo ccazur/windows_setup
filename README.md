@@ -7,8 +7,9 @@
 1. Install windows updates
 2. Drivers
  * [nvidia](http://www.nvidia.fr/Download/index.aspx)
-3. Change root password
-4. Activate Windows
+4. [Windows PowerShell 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595) 
+5. Change root password
+6. Activate Windows
 
 ### Privacy
 
@@ -20,18 +21,6 @@
  * Photos : off
  * Windows store : off
  * Xbox : off
-
-## Scoop
-
-Update execution policy (this is insecure, don't do that on servers)
-`set-executionpolicy unrestricted -s cu`
-
-Install Scoop
-`iex (new-object net.webclient).downloadstring('https://get.scoop.sh')`
-
-Install core utils and tools
-`scoop install 7zip coreutils curl git grep openssh sed wget vim grep openssh --global`
-
 
 ## Apps & Tools
 
