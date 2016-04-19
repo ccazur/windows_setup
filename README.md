@@ -27,6 +27,7 @@
 * [Synergy](http://synergy-project.org/nightly)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Clover](http://ejie.me/download)
+* [Destroy Windows 10 Spying](https://github.com/Nummer/Destroy-Windows-10-Spying/releases)
 
 * [Skype](https://www.skype.com/en/download-skype/)
 * [Slack](https://slack.com/downloads)
