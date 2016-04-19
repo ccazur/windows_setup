@@ -40,7 +40,7 @@
 
 ### Scanners & Printers
 
-* [Workforce WF-3640DTWF All-in-one](http://www.epson.fr/fr/fr/viewcon/corporatesite/products/mainunits/support/12578/28)
+* [Epson Workforce WF-3640DTWF All-in-one](http://www.epson.fr/fr/fr/viewcon/corporatesite/products/mainunits/support/12578/28)
 
 ### Softwares
 
