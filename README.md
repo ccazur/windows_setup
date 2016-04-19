@@ -31,11 +31,18 @@
 
 ## Apps & Tools
 
+### Admin
+
 * [Synergy](http://synergy-project.org/nightly)
  * Add it to start up
 * [NodeJS](https://nodejs.org/en/download/)
-* [Clover](http://ejie.me/download)
 * [Destroy Windows 10 Spying](https://github.com/Nummer/Destroy-Windows-10-Spying/releases)
+
+### Scanners & Printers
+
+*[Workforce WF-3640DTWF All-in-one](http://www.epson.fr/fr/fr/viewcon/corporatesite/products/mainunits/support/12578/28)
+
+### Softwares
 
 * [Skype](https://www.skype.com/en/download-skype/)
 * [Slack](https://slack.com/downloads)
@@ -53,6 +60,8 @@
 * [Firefox](https://www.mozilla.org/fr-FR/firefox/new/)
 * [Evernote](https://evernote.com/download/)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
+
+### Online tools
 
 * [Pocket](https://getpocket.com)
 * [DoneDone](https://www.getdonedone.com/)
