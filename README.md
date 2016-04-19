@@ -31,6 +31,7 @@
 ## Apps & Tools
 
 * [Synergy](http://synergy-project.org/nightly)
+ * Add it to start up
 * [NodeJS](https://nodejs.org/en/download/)
 * [Clover](http://ejie.me/download)
 * [Destroy Windows 10 Spying](https://github.com/Nummer/Destroy-Windows-10-Spying/releases)
