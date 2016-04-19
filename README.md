@@ -5,6 +5,7 @@
 ### Install
 
 1. Install windows updates
+ *. Distribution mode : local network
 2. Drivers
  * [nvidia](http://www.nvidia.fr/Download/index.aspx)
 4. [Windows PowerShell 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595) 
