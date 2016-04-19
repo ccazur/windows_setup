@@ -44,7 +44,7 @@
 
 ### Softwares
 
-* [Microsoft Office](https://login.live.com/login.srf)
+* [Microsoft Office](https://www.microsoftstore.com/store/msfr/fr_FR/DisplayDownloadHistoryPage/?wlsid=A6DFAEAD024C48C7BA3C1412E26039C9&wa=wsignin1.0)
 * [Skype](https://www.skype.com/en/download-skype/)
 * [Slack](https://slack.com/downloads)
 * [Todoist](https://www.microsoft.com/en-us/store/apps/todoist-to-do-list-and-task-manager/9nblggh1rl1k)
