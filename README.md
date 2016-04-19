@@ -11,7 +11,9 @@
 5. Change root password
 6. Activate Windows
 
-### Privacy
+### Settings
+
+#### Privacy
 
 * General : all off
 * Location : all off
@@ -21,6 +23,10 @@
  * Photos : off
  * Windows store : off
  * Xbox : off
+
+### Explorer
+
+* Show known file extentions
 
 ## Apps & Tools
 
