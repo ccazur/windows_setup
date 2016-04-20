@@ -14,6 +14,10 @@
 
 ### Settings
 
+#### Root
+
+* Control panel → User accounts → control settings → Disable
+
 #### Privacy
 
 * General : all off
